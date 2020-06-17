@@ -43,6 +43,5 @@ Avalie o repositório com uma ⭐ para que mais devs possam vê-lo!
 
 <hr>
 
-<p align="center">
-  Feito com 🧡 por **[Patrícia Mitsuko](https://www.linkedin.com/in/patricia-mashiba/)**
-</p>
+Feito com 🧡 por **[Patrícia Mitsuko](https://www.linkedin.com/in/patricia-mashiba/)**
+
