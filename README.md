@@ -17,7 +17,7 @@
 
 ## 🧐 Sobre o desafio
 
-Esse repositório de desafio do bootcamp GoStack busca fixar os conceitos explicados em aula. Dá uma olhada no **[repositórios do Desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios)
+Esse repositório de desafio do bootcamp GoStack busca fixar os conceitos explicados em aula. Dá uma olhada no **[repositório do Desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)**.
 
 Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
@@ -34,7 +34,7 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
   yarn
 
   #  divirta-se!
-  yarn start
+  yarn dev
 ```
 
 ## 😎 Esse conhecimento te ajudou?
@@ -44,5 +44,5 @@ Avalie o repositório com uma ⭐ para que mais devs possam vê-lo!
 <hr>
 
 <p align="center">
-  Feito com 🧡 por **[Patrícia Mitsuko](https://www.linkedin.com/in/patricia-mashiba/)
+  Feito com 🧡 por **[Patrícia Mitsuko](https://www.linkedin.com/in/patricia-mashiba/)**
 </p>
